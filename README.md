@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, Ferdi here 😄
+
+🌱 I’m currently learning JS, Nodejs & another great stuff.
+
+📫 How to reach me: email me, or Tweet me at [Twitter/_freakend](https://twitter.com/_freakend) for quick response.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/_freakend?label=Follow&style=social)](https://twitter.com/_freakend)
 
 <!--
 **freakend/freakend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/freakend/freakend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakend&hide=css,php" />
 </a>
+<a href="https://github.com/freakend/freakend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=freakend&show_icons=true&line_height=27&count_private=true alt="Freakend's GitHub Stats" />
+</a>
